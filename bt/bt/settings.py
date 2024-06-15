@@ -54,7 +54,7 @@ ROOT_URLCONF = 'bt.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [r"C:\Users\admin\Balram\bt\bt\templates"],
+        'DIRS': [r"/workspaces/table/bt/bt/templates"],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
